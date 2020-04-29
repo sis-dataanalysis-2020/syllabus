@@ -20,6 +20,7 @@
 
 1. **データ分析演習イントロ**（YouTube）
    - ユニパとslack
+   - [スライドPDF](materials/00/DataAnalysis2020_00.pdf)
 2. **事前課題その1講義資料** (pre1_material.ipynb)
    - ユニパ
    - [ダウンロード](materials/pre1/pre1_material.zip) zipファイルですので，解凍して中にある .ipynb を取り出し，ノートブックで開いてください．
