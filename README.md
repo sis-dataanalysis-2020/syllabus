@@ -50,7 +50,7 @@
 - **演習課題URL**
   - 講義資料中に記載しています．
   - 事前課題その2以降に課題のダウンロードの仕方がわからなくなった人向けの資料(how_to_get_assignment.pdf)
-    - [ダウンロード](materials/01/week01/how_to_get_assignment.pdf)
+    - [ダウンロード](materials/01/how_to_get_assignment.pdf)
     - 事前課題その1をやっていない人は，まず事前課題1の資料を見てください．
   - GitHubからどうしてもダウンロードできない人向けの課題のzipファイル(week01_assignment.zip)
     - [ダウンロード](materials/01/week01_assignment.zip)
