@@ -84,7 +84,7 @@
   - [スライドPDF](materials/04/DataAnalysis2020_04.pdf)
   - 演習課題URLは表紙ページ，レポート2のURLは最後のページに掲載しています．
   - 講義前に，RStudio を立ち上げておいてください．
-
+  - [Knitエラーについての補足PDF](materials/04/DataAnalysis2020_04pandoc.pdf)
 
 ## 講義スケジュール
 スケジュールおよび内容が今後変わる可能性がありますので，参考程度にしてください．
