@@ -98,7 +98,7 @@
 ### （6/09）第6回：Pythonによるデータ分析で⽤いるライブラリ基礎2
 
 - **第6回講義資料，演習課題URL**
-  - [スライドPDF](materials/05/DataAnalysis2020_06.pdf)
+  - [スライドPDF](materials/06/DataAnalysis2020_06.pdf)
   - 演習課題URLは表紙ページに掲載しています．
   - 講義前に，教科書を準備し Jupyter Notebook を立ち上げておいてください．
 
