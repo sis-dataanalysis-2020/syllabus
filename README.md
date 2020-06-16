@@ -106,7 +106,7 @@
 ### （6/18）第7回：Pythonによるデータ分析で⽤いるライブラリ基礎3
 
 - **第7回講義資料，演習課題URL**
-  - [スライドPDF](materials/06/DataAnalysis2020_07.pdf)
+  - [スライドPDF](materials/07/DataAnalysis2020_07.pdf)
   - 演習課題URLは表紙ページに掲載しています．
   - 講義前に，教科書を準備し Jupyter Notebook を立ち上げておいてください．
 
