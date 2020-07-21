@@ -155,7 +155,7 @@
 ### （7/23）第12回：機械学習基礎
 
 - **第11回講義資料，演習課題URL**
-  - [スライドPDF](materials/11/DataAnalysis2020_12.pdf)
+  - [スライドPDF](materials/12/DataAnalysis2020_12.pdf)
   - 演習課題URLは表紙ページに掲載しています．
   - 講義前に，教科書を準備し Jupyter Notebook を立ち上げておいてください．
 
