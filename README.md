@@ -165,6 +165,9 @@
   - [スライドPDF](materials/13/DataAnalysis2020_13.pdf)
   - レポート課題URLは表紙ページに掲載しています．
   - 講義前に，教科書を準備し Jupyter Notebook を立ち上げておいてください．
+- **第8回の解答**
+  - [ZIP](materials/08/week08_answer.zip) ipynb形式のファイルを圧縮したもの
+  - [PDF](materials/08/week08_answer.pdf) 上記ノートブックをPDFにしたもの
 - **第11回の解答**
   - [ZIP](materials/13/week11_answer.zip) ipynb形式のファイルを圧縮したもの
   - [PDF](materials/13/week11_answer.pdf) 上記ノートブックをPDFにしたもの
@@ -187,11 +190,11 @@
 | 6                 | 6月11日 | 山本   | Python:データ分析で⽤いるライブラリ基礎2 |
 | 7                 | 6月18日 | 山本   | Python:データ分析で⽤いるライブラリ基礎3 |
 | 8                 | 6月25日 | 山本   | Python: ここまでの復習と演習             |
-| 9                 | 7月2日  | 川嶋   | Python: pandasを⽤いた記述統計       |
+| 9                 | 7月2日  | 川嶋   | Python: pandasを⽤いた記述統計           |
 | 10                | 7月9日  | 川嶋   | Python: pandasを用いたデータ加⼯1        |
-| 11                | 7月16日 | 川嶋   | Python: pandasを用いたデータ加⼯2       |
+| 11                | 7月16日 | 川嶋   | Python: pandasを用いたデータ加⼯2        |
 | 12                | 7月23日 | 湯本   | Python: 機械学習基礎                     |
-| 13                | 7月30日 | 湯本   | Python: 総合演習             |
+| 13                | 7月30日 | 湯本   | Python: 総合演習                         |
 
 
 ## FAQ
